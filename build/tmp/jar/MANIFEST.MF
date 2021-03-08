@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: betterSlabs
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2021-03-08T01:17:46+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
