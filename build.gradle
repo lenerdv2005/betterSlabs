@@ -13,9 +13,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
-group = 'com.lenerdv.betterSlabs' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'betterSlabs'
+version = '1.0.0'
+group = 'com.lenerdv.better_slabs' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'better_slabs'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 

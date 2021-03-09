@@ -2,11 +2,13 @@ modLoader = "javafml"
 
 loaderVersion = "[35]"
 
+issueTrackerURL = "https://github.com/lenerdv2005/betterSlabs/issues"
+
 showAsResourcePack = false
 
 [[mods]]
-	modId = "betterSlabs"
-	version = "1.0"
+	modId = "better_slabs"
+	version = "1.0.0"
 	displayName = "Better Slabs"
 	description = "Vertical slabs, double slabs, more slabs!"
 
